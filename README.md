@@ -12,18 +12,18 @@
   <em>Con especialidad en Ingeniería de Software</em>
 </p>
 
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/JRamses11">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JRamses11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JRamses11&layout=compact&langs_count=8&theme=algolia"/>
-    ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JRamses11&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
   </a>
 </p>
 
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JRamses11&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=JRamses11&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
 
 ## 🛠 &nbsp;Tech Stack
 
