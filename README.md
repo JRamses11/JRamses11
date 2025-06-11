@@ -22,6 +22,8 @@
   </a>
 </p>
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JRamses11&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
