@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/JRamses11" align="center">
-    <img align="center" alt="Profile views" src="https://visitor-badge.laobi.icu/badge?page_id=JRamses11.JRamses11">
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JRamses11&theme=dark&show_icons=true&count_private=true" />
   </a>
 </p>
 
