@@ -12,35 +12,15 @@
   <em>Con especialidad en Ingeniería de Software</em>
 </p>
 
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-  <a href="https://github.com/JRamses11" align="center">
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JRamses11&theme=dark&show_icons=true&count_private=true" />
+  <a href="https://github.com/JRamses11">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JRamses11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JRamses11&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-###
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JRamses11&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="JRamses11 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JRamses11&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
- <img src="https://github-readme-stats.vercel.app/api?username=JRamses11&theme=dark&show_icons=true&count_private=true" />
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
 
 ## 🛠 &nbsp;Tech Stack
 
