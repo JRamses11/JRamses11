@@ -1,11 +1,16 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0A66C2&reversal=true" />
 </div>
 
 <h3 align="center">
   Hi, I'm Jose Ramses Aldama
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+
+<p align="center">
+  <strong>Ingeniero en Sistemas Computacionales</strong><br>
+  <em>Con especialidad en Ingeniería de Software</em>
+</p>
 
 <p align="center">
   <a href="https://github.com/JRamses11" align="center">
