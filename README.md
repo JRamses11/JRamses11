@@ -22,7 +22,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/api?user=JRamses11&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_buster=20251202" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JRamses11&theme=algolia&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,angular,vue,react,laravel,git,vscode,postman,jupyter" />
+</p>
+
+## 📊 Mi Actividad de Codificación (WakaTime)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JRamses11&theme=algolia&hide_border=true&layout=compact" alt="WakaTime Stats" />
 </p>
 
 ## 🛠 &nbsp;Tech Stack
