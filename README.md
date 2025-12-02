@@ -1,28 +1,28 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0A66C2&reversal=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0A66C2&reversal=true" />
 </div>
 
 <h3 align="center">
-  Hi, I'm Jose Ramses Aldama
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I'm Jose Ramses Aldama
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <strong>Ingeniero en Sistemas Computacionales</strong><br>
-  <em>Con especialidad en Ingeniería de Software</em>
+  <strong>Ingeniero en Sistemas Computacionales</strong><br>
+  <em>Con especialidad en Ingeniería de Software</em>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/JRamses11">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JRamses11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JRamses11&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+  <a href="https://github.com/JRamses11">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JRamses11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JRamses11&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=JRamses11&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=JRamses11&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ## 🛠 &nbsp;Tech Stack
@@ -40,6 +40,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+**![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)**
 
 #### 📚 Libraries
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white)
@@ -54,6 +55,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+**![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)**
 
 ### 🔗 &nbsp;Contact Me
 
