@@ -25,16 +25,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=JRamses11&theme=algolia&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,java,angular,vue,react,laravel,git,vscode,postman,jupyter" />
-</p>
-
-## 📊 Mi Actividad de Codificación (WakaTime)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JRamses11&theme=algolia&hide_border=true&layout=compact" alt="WakaTime Stats" />
-</p>
-
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
